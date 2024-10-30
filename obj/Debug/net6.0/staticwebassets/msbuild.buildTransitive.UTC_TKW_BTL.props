@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UTC_TKW_BTL.props" />
+</Project>
